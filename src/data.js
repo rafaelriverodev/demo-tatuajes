@@ -14,7 +14,7 @@
 
 export const site = {
   // URL pública final (se usa en Open Graph y canonical). Cambiar tras desplegar.
-  url: 'https://demo-tatuajes.vercel.app',
+  url: 'https://demo-tatuajes-two.vercel.app',
   lang: 'es',
   title: 'Tinta Negra Studio · Estudio de tatuajes en La Laguna, Tenerife',
   description:
